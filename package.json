@@ -1,0 +1,19 @@
+{
+  "name": "timestamptotimemessage",
+  "version": "1.0.0",
+  "description": "A package which takes a timestamp in msecs and returns a string in :\"xx days xx hours xx mins xx secs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonisbitloops/timestamp-to-time-message.git"
+  },
+  "author": "Antonis Sardounis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonisbitloops/timestamp-to-time-message/issues"
+  },
+  "homepage": "https://github.com/antonisbitloops/timestamp-to-time-message#readme"
+}
